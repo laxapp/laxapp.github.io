@@ -1,5 +1,3 @@
-title: This is my title
-layout: post
 ## Co to jest LAXA?
 Laxa to strona, która pomaga dowiedzieć się o zadaniach domowych.
 ### Publikacja strony za:
